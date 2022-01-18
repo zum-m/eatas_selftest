@@ -1,6 +1,6 @@
-# dec_project
+# dec_project(仮)
 
-## Laravel Naming Rule
+## 命名規則
 
 ### テーブル
 * snake_case
