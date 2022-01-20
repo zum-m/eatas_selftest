@@ -4,6 +4,11 @@
 ## 目次
 * テーブル一覧
   * [ユーザーテーブル](#users)
+  * [ログインテーブル](#authorizations)
+  * [質問テーブル](#questions)
+  * [回答テーブル](#answers)
+  * [記事テーブル](#articles)
+  * [引用テーブル](#quotes)
 * データ分析に関する雑記表   
 
 ## テーブル一覧
@@ -19,7 +24,7 @@
 |更新日時|updated_at|datetime|||○|
 |削除日時|deleted_at|datetime||||
 
-authorizations
+### authorizations
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
 |ユーザーID|users_id|integer||○||
@@ -27,7 +32,7 @@ authorizations
 |作成日時|created_at|datetime|||○|
 |更新日時|updated_at|datetime|||○|
 
-questions
+### questions
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
 |質問ID|id|integer|○||○|
@@ -39,7 +44,7 @@ questions
 |更新日時|updated_at|datetime|||○|
 |削除日時|deleted_at|datetime||||
 
-answers
+### answers
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
 |回答ID|id|integer|○||○|
@@ -51,7 +56,7 @@ answers
 |削除日時|deleted_at|datetime||||
 
 
-articles
+### articles
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
 |記事ID|id|integer|○||○|
@@ -62,7 +67,7 @@ articles
 |更新日時|updated_at|datetime|||○|
 |削除日時|deleted_at|datetime||||
 
-quotes
+### quotes
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
 |引用ID|id|integer|○||○|
