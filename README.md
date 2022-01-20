@@ -3,6 +3,7 @@
 ## 目次
 * [プロジェクト概要](#プロジェクト概要)
 * [方針(各会議終了時更新)](#方針)
+* [各種ツール](#各種ツール)
 * [命名規則](#命名規則)
 * [画面構成](#画面構成)
 
@@ -19,6 +20,14 @@
 一定の信頼性が保証されます。
 
 ## 方針
+
+## 各種ツール
+
+### スケジュール、タスク管理など
+* [Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Ottr0SnGy-7Ys18o_Zx5yYQV0df98sFv8L4o98iYzgg/edit#gid=762279889)
+
+### マインドマップ
+* [MindMeister](https://www.mindmeister.com/map/2144626554?t=ZXRUDss8F3)
 
 
 ## 命名規則表
