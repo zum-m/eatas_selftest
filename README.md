@@ -29,6 +29,9 @@
 マインドマップ
 * [MindMeister](https://www.mindmeister.com/map/2144626554?t=ZXRUDss8F3)
 
+画面設計
+* [Figma](https://www.figma.com/file/5QI8WSgytRMXOUaVQLruTZ/dec-eatas)
+
 
 ## 命名規則表
 [詳細なルールはこちら](設計/命名規則詳細.md)
