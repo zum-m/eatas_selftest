@@ -27,10 +27,17 @@
 ### authorizations
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
-|ユーザーID|users_id|integer||○||
 |ログインID|id|string|○|||
+|ユーザーID|users_id|integer||○||
 |作成日時|created_at|datetime|||○|
 |更新日時|updated_at|datetime|||○|
+
+### follow
+|論理名|物理名|型|PK|FK|NN|
+|:---|:---|:---|:---:|:---:|:---:|
+|ユーザーID|users_id|integer|○|○||
+|フォローID|followee_id|integer|○|○||
+|作成日時|created_at|datetime|||○|
 
 ### questions
 |論理名|物理名|型|PK|FK|NN|
@@ -54,7 +61,6 @@
 |作成日時|created_at|datetime|||○|
 |更新日時|updated_at|datetime|||○|
 |削除日時|deleted_at|datetime||||
-
 
 ### articles
 |論理名|物理名|型|PK|FK|NN|
