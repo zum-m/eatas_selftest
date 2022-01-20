@@ -5,6 +5,7 @@
 ### [テーブル一覧](#テーブル一覧)
 * [ユーザーテーブル](#users)
 * [ログインテーブル](#authorizations)
+* [フォローテーブル](#follows)
 * [質問テーブル](#questions)
 * [回答テーブル](#answers)
 * [記事テーブル](#articles)
@@ -32,7 +33,7 @@
 |作成日時|created_at|datetime|||○|
 |更新日時|updated_at|datetime|||○|
 
-### follow
+### follows
 |論理名|物理名|型|PK|FK|NN|
 |:---|:---|:---|:---:|:---:|:---:|
 |ユーザーID|users_id|integer|○|○||
