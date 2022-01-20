@@ -23,10 +23,10 @@
 
 ## 各種ツール
 
-### スケジュール、タスク管理など
+スケジュール、タスク管理など
 * [Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Ottr0SnGy-7Ys18o_Zx5yYQV0df98sFv8L4o98iYzgg/edit#gid=762279889)
 
-### マインドマップ
+マインドマップ
 * [MindMeister](https://www.mindmeister.com/map/2144626554?t=ZXRUDss8F3)
 
 
