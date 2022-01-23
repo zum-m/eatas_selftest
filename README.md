@@ -49,7 +49,10 @@ Laravelフレームワーク(PHP)を使用します。
 * [MindMeister](https://www.mindmeister.com/map/2144626554?t=ZXRUDss8F3)
 
 ジャムボード
-* [GoogleJamboard](https://jamboard.google.com/d/16e9_bTHr8SKkkZSjsqZBWHZ69BaZeF9pUA5La1yhF38/viewer)
+* [GoogleJamboard](https://jamboard.google.com/d/16e9_bTHr8SKkkZSjsqZBWHZ69BaZeF9pUA5La1yhF38/viewer)]
+
+グーグルコラボ
+* [GoogleColaboratory](https://colab.research.google.com/drive/12nXmiYsV-Efv143azgxkVyMT9D5Q1KhP#scrollTo=eu-7KwoaOqBm)
 
 画面設計
 * [Figma](https://www.figma.com/file/5QI8WSgytRMXOUaVQLruTZ/dec-eatas)
