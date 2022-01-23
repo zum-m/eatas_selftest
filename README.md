@@ -43,10 +43,13 @@ Laravelフレームワーク(PHP)を使用します。
 ## 各種ツール
 
 スケジュール、タスク管理など
-* [Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1Ottr0SnGy-7Ys18o_Zx5yYQV0df98sFv8L4o98iYzgg/edit#gid=762279889)
+* [GoogleSpreadSheet](https://docs.google.com/spreadsheets/d/1Ottr0SnGy-7Ys18o_Zx5yYQV0df98sFv8L4o98iYzgg/edit#gid=762279889)
 
 マインドマップ
 * [MindMeister](https://www.mindmeister.com/map/2144626554?t=ZXRUDss8F3)
+
+ジャムボード
+* [GoogleJamboard](https://jamboard.google.com/d/16e9_bTHr8SKkkZSjsqZBWHZ69BaZeF9pUA5La1yhF38/viewer)
 
 画面設計
 * [Figma](https://www.figma.com/file/5QI8WSgytRMXOUaVQLruTZ/dec-eatas)
